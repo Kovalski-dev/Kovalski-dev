@@ -4,7 +4,7 @@
     <a href="https://t.me/kovalski_dev" target="_blank">
         <img src="https://img.shields.io/badge/Telegram-blue" alt="Telegram img"/>
     </a>
-    <a href="mailto:kovalski.dev@gmail.com">
+    <a href="https://mail.google.com/mail/u/0/?fs=1&to=kovalski.dev@gmail.com&su=GitHub&body=Say%20hi%20!&tf=cm">
         <img src="https://img.shields.io/badge/Gmail-blue" alt="Gmail img"/>
     </a>
     <a href="https://drive.google.com/file/d/1jhQ4QioToU_Jj2LZGiQoE3-e63vITNOY/view?usp=sharing" target="_blank">
