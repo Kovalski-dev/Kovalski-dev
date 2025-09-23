@@ -2,13 +2,13 @@
 <p align="center"><img src="https://media1.tenor.com/m/02Ze4NJUR5gAAAAd/youre-going-to-tell-me-everything-you-know-mysterion.gif" width="300" /></p>
 <div id="badges" align="center">
     <a href="https://t.me/kovalski_dev" target="_blank">
-        <img src="https://img.shields.io/badge/Telegram-blue" alt="Telegram img"/>
+        <img src="https://img.shields.io/badge/My-Telegram-blue" alt="My-Telegram img"/>
     </a>
     <a href="https://mail.google.com/mail/u/0/?fs=1&to=kovalski.dev@gmail.com&su=GitHub&body=Say%20hi%20!&tf=cm">
-        <img src="https://img.shields.io/badge/Gmail-blue" alt="Gmail img"/>
+        <img src="https://img.shields.io/badge/My-Gmail-blue" alt="My-Gmail img"/>
     </a>
     <a href="https://drive.google.com/file/d/1jhQ4QioToU_Jj2LZGiQoE3-e63vITNOY/view?usp=sharing" target="_blank">
-        <img src="https://img.shields.io/badge/My-CV-blue" alt="My CV img"/>
+        <img src="https://img.shields.io/badge/My-CV-blue" alt="My-CV img"/>
     </a>
   </div>
   
