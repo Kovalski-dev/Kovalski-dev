@@ -5,10 +5,10 @@
         <img src="https://img.shields.io/badge/Telegram-blue" alt="Telegram img"/>
     </a>
     <a href="mailto:kovalski.dev@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-blue" alt="Gmail"/>
+        <img src="https://img.shields.io/badge/Gmail-blue" alt="Gmail img"/>
     </a>
     <a href="https://drive.google.com/file/d/1jhQ4QioToU_Jj2LZGiQoE3-e63vITNOY/view?usp=sharing" target="_blank">
-        <img src="" alt="https://img.shields.io/badge/My-CV-blue"/>
+        <img src="https://img.shields.io/badge/My-CV-blue" alt="My CV img"/>
     </a>
   </div>
   
