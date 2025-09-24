@@ -60,7 +60,7 @@ In my free time, I enjoy doing sports, cycling, reading, and spending time with 
 ### 🔥 &nbsp; My Stats :
 <div>
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kovalski-dev&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kovalski-dev&theme=dark)
 
 
 ![Top Techs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kovalski-dev&hide=css,scss,html&theme=tokyonight) 
