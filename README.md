@@ -7,7 +7,7 @@
     <a href="https://mail.google.com/mail/u/0/?fs=1&to=kovalski.dev@gmail.com&su=GitHub&body=Say%20hi%20!&tf=cm">
         <img src="https://img.shields.io/badge/My-Gmail-blue" alt="My-Gmail img"/>
     </a>
-    <a href="https://drive.google.com/file/d/1jhQ4QioToU_Jj2LZGiQoE3-e63vITNOY/view?usp=sharing" target="_blank">
+    <a href="https://drive.google.com/file/d/19eiBNBDfjB9YiD1iTQqeDZK5WZyiaUPV/view?usp=sharing" target="_blank">
         <img src="https://img.shields.io/badge/My-CV-blue" alt="My-CV img"/>
     </a>
   </div>
@@ -17,7 +17,7 @@
 
 ### About Me :
 
-I am a Frontend Developer with 4 years of experience. Throughout my career, I have successfully contributed to five projects in different fields.
+I am a Frontend Developer with 5 years of experience. Throughout my career, I have successfully contributed to five projects in different fields.
 
 I am always eager to explore new technologies, consistently strive to improve my skills, and remain highly motivated. I take a responsible approach to my work and maintain a friendly and respectful attitude toward my team.
 
