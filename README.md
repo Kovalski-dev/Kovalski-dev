@@ -17,11 +17,11 @@
 
 ### About Me :
 
-I am a Frontend Developer with 5 years of experience. Throughout my career, I have successfully contributed to five projects in different fields.
+Я Frontend-разработчик с опытом работы 5 лет. За свою карьеру, я успел продуктивно поработать над пятью проектами разных направлений.
 
-I am always eager to explore new technologies, consistently strive to improve my skills, and remain highly motivated. I take a responsible approach to my work and maintain a friendly and respectful attitude toward my team.
+Всегда с интересом разбираюсь в новых технологиях, перманентно стараюсь развивать собственные навыки и преисполнен мотивацией. Ответственно подхожу к своей работе, дружелюбен и уважителен к коллективу.
 
-In my free time, I enjoy doing sports, cycling, reading, and spending time with my loved ones.
+В свободное время люблю заниматься спортом, кататься на велосипеде, читать, проводить время с близкими людьми.
 
 <img src="https://drive.usercontent.google.com/download?id=1YV-rJ8QM9cbf_rwVXZwNFGT-EHu38t3w&authuser=1" alt="Prochital img"/>
 
